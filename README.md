@@ -13,5 +13,5 @@
   
   <h2>Layout do Projeto</h2> 
   <h1 align="center">
-  ![Esboço do projeto](https://github.com/lirarnato/algamoney-api/blob/main/Regra de Negócio.PNG)    
+      Regra de Negócio.PNG
   </h1>
