@@ -7,9 +7,8 @@
   :construction: Projeto README Em construção :construction:
 </h4>
 
-
-<p>Projeto back-end voltado para area finaceira, onde são salvo registros de débitos e créditos.
-Criado em linguagem Java e framework Spring Boot. Foram utilizados neste projeto: Flyway, ExceptionHandler,
-Bean Validation, OAuth2, JWT. Projeto faz parte do curso Fullstack Angular e Spring ministrado pela empresa Algaworks.
- - Para realizar testes é necessário instalar o Postam.
- - Consultas a banco de dados, para esse projeto foi utilizado o MSQL. </p>
+<h2>Sobre o Projeto</h2>
+<p>Este recurso foi criado para colocar em prática os conhecimentos adquiridos no curso de Fullstack Angular e Spring da Empresa Algaworks de um projeto Backend. 
+  API recriada do curso que tem por objetivo salvar e registrar serviços de débito e crédito utilizando: JAVA, SPRING BOOT, PROTOCOLO HTTP, MYSQL, OAUTH2 e POSTMAM, além de englobar os conceitos de: modelo de maturidade Richardson, Hateoas, segurança de APIs Rest, Idempotência, migração de dados com Flyway, tratamento de erros com ExceptionHandler, validação de valores inválidos com Bean Validation, implementando pesquisa com Metamodel, fluxo básico do OAuth, Implementando segurança com OAuth2 Password Flow,  e Deploy da API na Nuvem usando Heroku<p/>
+  
+  <h2>Layout do Projeto</h2> 
