@@ -13,4 +13,5 @@
   
   <h2>Layout do Projeto</h2> 
   <h1 align="center">
-    <img alt="Regra de Negócio" title="Regra de Negócio" src="./github/Regra de Negócio
+    <img alt="Regra" title="Regra de Negócio" src="./github/Regra de Negócio.PNG" />
+  </h1>
