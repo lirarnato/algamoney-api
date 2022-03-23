@@ -15,8 +15,7 @@
  
 ![imagem](https://github.com/lirarnato/algamoney-api/blob/main/Layout.PNG)
 
-  <h2>Tecnologias utilizadas</h2> 
-  <br>
+  <h2>Tecnologias utilizadas</h2>   
   <h3>Backend</h3>
   <ul>
   <li>JAVA</li>
@@ -27,4 +26,10 @@
   <li>POSTMAM</li>
   </ul>
   
+  <h2>Autor</h2>  
+  <h3>Renato Silva de Lira</h3>
+  <h4>Email:</h4>  
+ <p>
+<a href="https://outlook.live.com/owa/">lirarnato@hotmail.com</a>.
+</p>
   
