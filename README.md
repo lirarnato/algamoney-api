@@ -2,9 +2,9 @@
 
 # Sistema Financeiro
 <p align="center">
-  <a href="#Sobre o Projeto">Sobre o Projeto</a> •
-  <a href="#Layout do Projeto">Layout do Projeto</a> •
-  <a href="#Tecnologias utilizadas">Tecnologias utilizadas</a> •
+  <a href="#Sobre">Sobre</a> •
+  <a href="#Layout">Layout</a> •
+  <a href="#Tecnologias-utilizadas">Tecnologias-utilizadas</a> •
   <a href="#Autor">Autor</a>  
  </p>
 
@@ -12,7 +12,7 @@
   :construction: Projeto README Em construção :construction:
 </h4>
 
-# Sobre o Projeto
+# Sobre
 <p>Este recurso foi criado para colocar em prática os conhecimentos adquiridos no curso de Fullstack Angular e Spring da Empresa Algaworks de um projeto Backend. 
   API recriada do curso que tem por objetivo salvar e registrar serviços de débito, crédito, cadastro de pessoas e lançamentos, além de englobar os conceitos de: modelo de maturidade Richardson, Hateoas, segurança de APIs Rest, Idempotência, migração de dados com Flyway, tratamento de erros com ExceptionHandler, validação de valores inválidos com Bean Validation, implementando pesquisa com Metamodel, fluxo básico do OAuth, Implementando segurança com OAuth2 Password Flow e Deploy da API na Nuvem usando Heroku<p/>
   
@@ -23,7 +23,7 @@
 
 
 
-  # Tecnologias utilizadas
+  # Tecnologias-utilizadas
   <h3>Backend</h3>
   <ul>
   <li>JAVA</li>
