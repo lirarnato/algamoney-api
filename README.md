@@ -46,4 +46,4 @@
   <h4>Lattes:</h4>  
  <p><a href="http://lattes.cnpq.br/5095411084367911">http://lattes.cnpq.br/5095411084367911</a></p> 
  <h4>Behance:</h4>  
- <p><a href="https://www.behance.net/renatolira1</a></p> 
+ <p><a href="https://www.behance.net/renatolira1"</a></p> 
