@@ -17,9 +17,9 @@
   API recriada do curso que tem por objetivo salvar e registrar serviços de débito, crédito, cadastro de pessoas e lançamentos, além de englobar os conceitos de: modelo de maturidade Richardson, Hateoas, segurança de APIs Rest, Idempotência, migração de dados com Flyway, tratamento de erros com ExceptionHandler, validação de valores inválidos com Bean Validation, implementando pesquisa com Metamodel, fluxo básico do OAuth, Implementando segurança com OAuth2 Password Flow e Deploy da API na Nuvem usando Heroku<p/>
   
   # Layout
- <p>Esboço da aplicação!</p>
+ ## Esboço da aplicação!
 ![imagem](https://github.com/lirarnato/algamoney-api/blob/main/Layout.PNG)
-![imagem1](https://github.com/lirarnato/algamoney-api/blob/main/Imagem1.png)
+ ## Parte da Programação!
 ![Animação](https://user-images.githubusercontent.com/71908798/159828008-9685a7ce-e435-4628-848f-c4c3da081572.gif)
 
 
