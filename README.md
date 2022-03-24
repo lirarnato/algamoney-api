@@ -34,3 +34,5 @@
  <p><a href="https://www.linkedin.com/in/renatolira69823894/">https://www.linkedin.com/in/renatolira69823894/</a></p>
   <h4>Lattes:</h4>  
  <p><a href="http://lattes.cnpq.br/5095411084367911">http://lattes.cnpq.br/5095411084367911</a></p> 
+ <h4>Behance:</h4>  
+ <p><a href="http://lattes.cnpq.br/5095411084367911">http://lattes.cnpq.br/5095411084367911</a></p> 
