@@ -29,7 +29,7 @@
   <h2>Autor</h2>  
   <h3>Renato Silva de Lira</h3>
   <h4>Email:</h4>  
- <p>
-<a href="https://outlook.live.com/owa/">lirarnato@hotmail.com</a>.
-</p>
+ <p><a href="https://outlook.live.com/owa/">lirarnato@hotmail.com</a></p>
+ <h4>Linkedin:</h4>  
+ <p><a href="https://www.linkedin.com/in/renatolira69823894/">https://www.linkedin.com/in/renatolira69823894/</a></p>
   
