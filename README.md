@@ -22,8 +22,7 @@
  ## Parte da Programação usando a Ferramenta SpringToolSuite4!
 ![Animação](https://user-images.githubusercontent.com/71908798/159828008-9685a7ce-e435-4628-848f-c4c3da081572.gif)
   ## Acessando a API hospedada no HEROKU, utilizando POSTMAN!
-
-
+![Animação1](https://user-images.githubusercontent.com/71908798/159830653-08148b85-a627-4120-84d4-cf172012d5e1.gif)
 
 
 
