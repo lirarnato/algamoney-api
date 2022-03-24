@@ -2,7 +2,7 @@
 
 # Sistema Financeiro
 <p align="center">
-  <a href="#Sobre">Sobre o Projeto</a> •
+  <a href="#Sobre o Projeto">Sobre o Projeto</a> •
   <a href="#Layout do Projeto">Layout do Projeto</a> •
   <a href="#Tecnologias utilizadas">Tecnologias utilizadas</a> •
   <a href="#Autor">Autor</a>  
