@@ -34,7 +34,7 @@
   <li>PROTOCOLO HTTP</li>
   <li>MYSQL</li>
   <li>OAUTH2</li>
-  <li>POSTMAn</li>
+  <li>POSTMAN</li>
   </ul>
   
   # Autor  
