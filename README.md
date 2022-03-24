@@ -16,7 +16,7 @@
 <p>Este recurso foi criado para colocar em prática os conhecimentos adquiridos no curso de Fullstack Angular e Spring da Empresa Algaworks de um projeto Backend. 
   API recriada do curso que tem por objetivo salvar e registrar serviços de débito, crédito, cadastro de pessoas e lançamentos, além de englobar os conceitos de: modelo de maturidade Richardson, Hateoas, segurança de APIs Rest, Idempotência, migração de dados com Flyway, tratamento de erros com ExceptionHandler, validação de valores inválidos com Bean Validation, implementando pesquisa com Metamodel, fluxo básico do OAuth, Implementando segurança com OAuth2 Password Flow e Deploy da API na Nuvem usando Heroku<p/>
   
-  # Layout do Projeto
+  # Layout
  
 ![imagem](https://github.com/lirarnato/algamoney-api/blob/main/Layout.PNG)
 ![imagem1](https://github.com/lirarnato/algamoney-api/blob/main/Imagem1.png)
